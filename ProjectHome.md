@@ -1,0 +1,1 @@
+Logging tool designed after Apache log4j and adapted to the InterSystems Caché and Ensemble platforms. This framework makes it easier to log messages in different formats for different devices (e.g. log file, database table, Ensemble Event Log, user output window etc).
